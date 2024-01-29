@@ -118,7 +118,7 @@ input {
     border: 5px solid green;
 }
 
-.shadowInTitle {
-    box-shadow: 3px 3px 7px red;
+.shadowInLogo {
+    box-shadow: 5px 5px 7px #514988;
 }
 

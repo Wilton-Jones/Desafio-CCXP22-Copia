@@ -18,9 +18,9 @@ function highLightCard(selector) {
     element.classList.toggle('cardHighLight');
 }
 
-TitleWithShadow = (selector) => {
+logoWithShadow = (selector) => {
     var element = document.querySelector(selector);
-    element.classList.toggle('shadowInTitle');
+    element.classList.toggle('shadowInLogo');
 }
 
 
